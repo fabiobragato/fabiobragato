@@ -36,4 +36,4 @@
 
 ### 📈 **Linguagens Mais Usadas**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_username&layout=compact&theme=radical)](https://github.com/fabiobragato/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobragato&layout=compact&theme=radical)](https://github.com/fabiobragato/github-readme-stats)
