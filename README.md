@@ -14,7 +14,7 @@
 
 ### 📊 **Minhas Estatísticas do GitHub**
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=fabiobragato&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=fabiobragato&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ---
 
