@@ -1,8 +1,8 @@
 # Olá! Meu nome é Fábio Bragato 👋
 
 - Tenho 28 anos, sou Software Engineer no Banco Itaú.
-- Trabalhei por 4 anos como Data Analyst no Banco Sofisa.
-- Tenho um curso de Excel na Udemy com mais de 200 vendas.
+- Atuei como Data Analyst no Banco Sofisa.
+- Tenho um curso de Excel na Udemy com mais de 200 alunos.
 - Apaixonado por tecnologia, venho continuamente buscando novos conhecimentos e aperfeiçoando minhas habilidades desde que iniciei minha carreira profissional.
 
 ---
