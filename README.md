@@ -14,7 +14,7 @@
 
 ### 📊 **Minhas Estatísticas do GitHub**
 
-![Estatísticas do GitHub](https://github-readme-stats-delta-drab.vercel.app/api?username=fabiobragato&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Estatísticas do GitHub](https://github-readme-stats-delta-drab.vercel.app/api?username=fabiobragato&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=true)
   
 ---
 
