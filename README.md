@@ -1,6 +1,6 @@
 # Olá! Meu nome é Fábio Bragato 👋
 
-- Tenho 28 anos, sou Software Engineer no Banco Itaú.
+- Tenho 30 anos, sou Software Engineer no Banco Itaú.
 - Atuei como Data Analyst no Banco Sofisa.
 - Tenho um curso de Excel na Udemy com mais de 200 alunos.
 - Apaixonado por tecnologia, venho continuamente buscando novos conhecimentos e aperfeiçoando minhas habilidades desde que iniciei minha carreira profissional.
@@ -8,14 +8,7 @@
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fábio-bragato/)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.com)
 
----
-
-### 📊 **Minhas Estatísticas do GitHub**
-
-![Estatísticas do GitHub](https://github-readme-stats-delta-drab.vercel.app/api?username=fabiobragato&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=true)
-  
 ---
 
 ### 🚀 **Tecnologias que uso no dia a dia**
