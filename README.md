@@ -28,10 +28,3 @@
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft&logoColor=white)
-
----
-
-### 📈 **Linguagens Mais Usadas**
-
-[![Linguagens mais usadas](https://github-readme-stats-delta-drab.vercel.app/api/top-langs/?username=fabiobragato&layout=compact&theme=radical&count_private=true)](https://github.com/fabiobragato/github-readme-stats)
-
